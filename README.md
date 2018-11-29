@@ -79,6 +79,6 @@ Finally, this file takes the information from Eye_designs.py and puts the differ
 This part of the code is also where the intensity of the LED’s is defined. 
 
 ### Authors
-* **Bradley Tracey** //
-**Amy Teasdale** 
+* **Bradley Tracey**
+* **Amy Teasdale** 
 
